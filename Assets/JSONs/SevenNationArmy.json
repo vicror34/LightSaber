@@ -1,0 +1,3477 @@
+{
+    "notes": [
+        {
+            "time": 19.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 20.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 21.40625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 22.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 23.46875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 24.46875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 25.46875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 26.46875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 27.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 28.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 29.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 30.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 31.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 32.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 33.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 34.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 35.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 36.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 37.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 38.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 39.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 40.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 41.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 42.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 43.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 44.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 45.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 46.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 47.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 48.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 49.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 50.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 51.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 52.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 53.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 54.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 55.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 56.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 57.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 58.1875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 59.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 60.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 61.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 62.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 63.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 64.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 65.15625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 66.15625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 67.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 68.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 68.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 69.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 70.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 70.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 71.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 72.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 72.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 73.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 74.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 74.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 75.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 76.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 76.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 77.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 78.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 79.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 80.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 81.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 82.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 83.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 84.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 84.125,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 85.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 86.0625,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 86.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 87.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 88.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 88.0625,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 89.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 90,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 90,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 91,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 6
+        },
+        {
+            "time": 92,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 93,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 6
+        },
+        {
+            "time": 94,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 95,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 6
+        },
+        {
+            "time": 96.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 97,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 6
+        },
+        {
+            "time": 98.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 99,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 4
+        },
+        {
+            "time": 99,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 103.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 103.25,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 107.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 109,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 5
+        },
+        {
+            "time": 109,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 109.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 109.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 110.25,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 110.25,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 111,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 111.5,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 111.5,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 113.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 113.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 115.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 117,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 117,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 4
+        },
+        {
+            "time": 117.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 117.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 118.25,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 118.25,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 119,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 119.625,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 119.625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 120.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 121,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 121,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 121.6875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 121.6875,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 123.5625,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 123.5625,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 125,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 125,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 125.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 125.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 126.25,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 126.25,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 127,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 127,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 127.5,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 129.6875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 131.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 131.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 133.25,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 133.25,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 133.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 133.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 134.375,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 135.125,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 135.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 135.75,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 136.5,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 137.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 137.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 139.875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 140.34375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 140.875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 141.34375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 141.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 142.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 142.90625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 143.40625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 143.90625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 144.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 144.90625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 145.40625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 145.96875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 146.40625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 147.03125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 147.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 148.1875,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 148.1875,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 165,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 166.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 167.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 168.125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 169.125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 170.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 171.1875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 172.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 173.1875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 174.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 175.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 176.1875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 177.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 178.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 179.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 180.3125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 181.25,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 182.3125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 183.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 184.3125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 185.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 186.3125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 187.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 188.3125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 189.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 190.3125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 191.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 192.375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 193.375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 194.375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 195.375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 196.375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 197.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 198.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 199.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 200.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 201.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 202.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 203.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 204.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 205.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 206.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 207.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 208.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 209.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 210.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 211.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 212.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 213.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 214.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 214.375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 215.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 216.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 216.4375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 217.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 218.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 218.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 219.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 220.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 220.4375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 221.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 222.4375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 222.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 223.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 224.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 224.4375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 225.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 226.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 226.4375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 227.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 228.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 228.4375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 229.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 230.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 230.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 231.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 232.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 232.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 233.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 234.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 234.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 235.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 236.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 236.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 237.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 238.3125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 239.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 240.3125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 241.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 242.3125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 243.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 245.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 245.8125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 246.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 246.8125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 247.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 247.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 248.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 248.8125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 249.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 249.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 250.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 250.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 251.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 251.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 253.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 253.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 255,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 255,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 255.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 256.25,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 257,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 257.5,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 257.5,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 259.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 259.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 261.5,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 261.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 7
+        },
+        {
+            "time": 263,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 263,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 4
+        },
+        {
+            "time": 263.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 264.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 265,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 265.75,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 266.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 267.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 267.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 269.8125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 269.8125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 271.25,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 271.25,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 271.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 272.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 273.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 273.9375,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 273.9375,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 275.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 275.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 278,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 278,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 6
+        },
+        {
+            "time": 279.25,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 5
+        },
+        {
+            "time": 279.25,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 280.0625,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 280.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 281.25,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 282,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 282.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 283.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 284,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 286,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 286,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 287.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 287.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 288.25,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 288.25,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 288.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 288.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 289.5,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 290.25,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 292.1875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 292.1875,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 294.1875,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 294.1875,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 295.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 295.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 296.25,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 296.25,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 296.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 296.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 297.5,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 298.25,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 299,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 299.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 300.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 300.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 302.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 303.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 304.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 305,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 305.75,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 306.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 308.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 308.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 310.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 311.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 312.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 313,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 313.75,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 314.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 315,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 315.75,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 316.25,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 4
+        },
+        {
+            "time": 316.25,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 326.875,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 326.875,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 343.8125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 344.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 345.875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 346.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 347.875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 348.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 349.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 350.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 351.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 352.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 353.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 354.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 355.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 356.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 357.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 358.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 359.875,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 360.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 361.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 362.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 363.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 364.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 365.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 366.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 367.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 368.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 369.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 370.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 371.9375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 372.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 374,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 376,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 377,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 378,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 378.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 380,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 381,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 382,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 383,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 384,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 385,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 386.0625,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 387.0625,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 388.0625,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 389,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 390.0625,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 391.0625,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 392.0625,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 393.125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 394.125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 395.1875,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 396.125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 397.1875,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 398.1875,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 399.125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 400.125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 401.125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 402.125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 403.0625,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 404.125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 405.125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 406.0625,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 407.0625,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 408.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 409.0625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 410.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 411.0625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 412.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 413,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 414,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 415.0625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 416.0625,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 417.0625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 418,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 419,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 420,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 421.0625,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 422,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 423,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 424,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 424.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 425,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 425.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 426,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 426.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 427,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 427.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 428,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 428.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 429,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 429.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 430,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 430.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 431,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 431.5,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 432.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 432.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 433.75,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 434.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 435,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 435.6875,
+            "lineIndex": 1,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 436.25,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 438.375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 438.375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 440.3125,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 441.8125,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 442.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 442.9375,
+            "lineIndex": 1,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 443.6875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 444.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 444.8125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 445.8125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 8
+        },
+        {
+            "time": 446.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 8
+        },
+        {
+            "time": 448.3125,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 448.3125,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 449.9375,
+            "lineIndex": 3,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 5
+        },
+        {
+            "time": 449.9375,
+            "lineIndex": 0,
+            "lineLayer": 2,
+            "type": 0,
+            "cutDirection": 4
+        },
+        {
+            "time": 450.4375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 450.4375,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 451.125,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 451.875,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 452.25,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 454.4375,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 454.4375,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 456.4375,
+            "lineIndex": 2,
+            "lineLayer": 2,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 458,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 458.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 459.25,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 0
+        },
+        {
+            "time": 460,
+            "lineIndex": 3,
+            "lineLayer": 1,
+            "type": 1,
+            "cutDirection": 3
+        },
+        {
+            "time": 460.5,
+            "lineIndex": 0,
+            "lineLayer": 1,
+            "type": 0,
+            "cutDirection": 2
+        },
+        {
+            "time": 461,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 1
+        },
+        {
+            "time": 461.9375,
+            "lineIndex": 1,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 1
+        },
+        {
+            "time": 462.5,
+            "lineIndex": 2,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 0
+        },
+        {
+            "time": 464.5,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 464.5,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        },
+        {
+            "time": 473.1875,
+            "lineIndex": 0,
+            "lineLayer": 0,
+            "type": 0,
+            "cutDirection": 6
+        },
+        {
+            "time": 473.1875,
+            "lineIndex": 3,
+            "lineLayer": 0,
+            "type": 1,
+            "cutDirection": 7
+        }
+    ],
+    "obstacles": []
+}

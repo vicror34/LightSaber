@@ -39,17 +39,22 @@ public class Saber : MonoBehaviour
                     if (cubeJson.arrowIdentifier != CubeArrow.Center)
                     {
                         Vector3 sliceDirection = Vector3.Normalize(currentPosition - _previousPosition);
-                        Vector3 planeProjection = Vector3.ProjectOnPlane(sliceDirection, otherGameObject.transform.forward);
-                        if (Vector3.Angle(planeProjection, otherGameObject.transform.up) <= 45.0f)
+                        Vector3 planeSDProjection = Vector3.ProjectOnPlane(sliceDirection, otherGameObject.transform.forward);
+                        if (Vector3.Angle(planeSDProjection, otherGameObject.transform.up) <= 45.0f)
                         {
                             //Debug.Log("1:" + Vector3.Angle(planeProjection, otherGameObject.transform.up));
 
-                            sliceDirection = Vector3.Normalize(otherGameObject.transform.position - currentPosition);
-                            planeProjection = Vector3.ProjectOnPlane(sliceDirection, otherGameObject.transform.forward);
+                            Vector3 directionToCenter = Vector3.Normalize(otherGameObject.transform.position - currentPosition);
+                            Vector3 planeDTCProjection = Vector3.ProjectOnPlane(directionToCenter, otherGameObject.transform.forward);
                             //Debug.Log("2: " + Vector3.Angle(planeProjection, otherGameObject.transform.up));
-                            if (Vector3.Angle(planeProjection, otherGameObject.transform.up) <= 45.0f)
+                            if (Vector3.Angle(planeDTCProjection, otherGameObject.transform.up) <= 45.0f)
                             {
                                 Debug.Log("CUBE DESTROYED");
+                                float timeScore = ScoreManager.Instance.CalculateScoreBasedOnTime(LevelManager.GetCurrentTime(), cubeJson.time / (LevelManager.BPM / 60.0f));
+                                float cutAngleScore = ScoreManager.Instance.CalculateScoreBasedOnCutAngle(Vector3.Angle(planeSDProjection, otherGameObject.transform.up));
+                                float offsetAngleScore = ScoreManager.Instance.CalculateScoreBasedOnOffsetAngle(Vector3.Angle(planeDTCProjection, otherGameObject.transform.up));
+                                ScoreManager.Instance.IncrementAndUpdateScore(timeScore + cutAngleScore + offsetAngleScore);
+                                AudioManager.Instance.PlayOnce(AudioManager.AudioSources.HIT);
                                 Destroy(otherGameObject);
                             }
                         }

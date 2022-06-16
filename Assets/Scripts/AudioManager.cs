@@ -6,7 +6,14 @@ public class AudioManager
 {
     private static AudioManager _instance;
     private bool _paused;
-    private AudioSource _audioSource;
+    private AudioSource[] _audioSource = new AudioSource[3];
+
+    public enum AudioSources
+    {
+        SONG = 0,
+        HIT = 1,
+        HURT = 2
+    }
 
     public static AudioManager Instance { 
         get { 
@@ -23,39 +30,53 @@ public class AudioManager
 
     private AudioManager() 
     {
-        _audioSource = null;
+        for (int i = 0; i < _audioSource.Length; ++i)
+            _audioSource[i] = null;
         _paused = true;
     }
 
-    public void Load(GameObject gameObject, string path)
+    public void PlayOnce(AudioSources source)
     {
-        AudioClip audioClip = Resources.Load<AudioClip>(path);
-        _audioSource = gameObject.AddComponent<AudioSource>();
-        _audioSource.clip = audioClip;
-        _paused = true;
+        _audioSource[(int)source].PlayOneShot(_audioSource[(int)source].clip);
+    }
+
+    public void Load(GameObject gameObject, string path, AudioSources source)
+    {
+        if (_audioSource[(int)source] == null)
+        {
+            AudioClip audioClip = Resources.Load<AudioClip>(path);
+            _audioSource[(int)source] = gameObject.AddComponent<AudioSource>();
+            _audioSource[(int)source].clip = audioClip;
+
+            if ((int)source == 0)
+                _paused = true;
+            else
+                _audioSource[(int)source].volume = 0.25f;
+        }
     }
 
     public void TogglePlay()
     {
         if (_paused)
         {
-            _audioSource.Play();
+            _audioSource[0].Play();
             _paused = false;
         } else
         {
-            _audioSource.Pause();
+            _audioSource[0].Pause();
             _paused = true;
         }
     }
 
     public void Stop()
     {
-        _audioSource.Stop();
+        _audioSource[0].Stop();
     }
 
     public void Destroy()
     {
         _paused = true;
-        Object.Destroy(_audioSource);
+        for (int i = 0;i < _audioSource.Length; ++i)
+            Object.Destroy(_audioSource[i]);
     }
 }

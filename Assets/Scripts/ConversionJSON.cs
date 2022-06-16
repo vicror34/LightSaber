@@ -27,6 +27,7 @@ public class ConversionJSON
             level = 0,
             name = "Level 0",
             size = "4x3",
+            BPM = 124
         };
         List<CubeJSON> cubeJSONList = new List<CubeJSON>();
         foreach (BeatSaberObjectJSON levelObject in sageJSON.notes)

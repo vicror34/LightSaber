@@ -8,4 +8,5 @@ public class LevelJSON
     public string name;
     public string size;
     public CubeJSON[] cubeList;
+    public int BPM;
 }

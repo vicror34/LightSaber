@@ -9,14 +9,23 @@ public class LevelManager : MonoBehaviour
 
     private CubeSpawnerStats _stats;
     private CubeSpawner _cubeSpawner;
+    private LevelJSON _levelJSON;
     //private AudioManager _audioManager;
 
-    private float _timer = 0.0f;
+    private static float _timer = 0.0f;
+    private static int _BPM;
     private static bool _paused = true;
+
+    public static int BPM { get; private set; }
 
     public static bool IsPaused()
     {
         return _paused;
+    }
+
+    public static float GetCurrentTime()
+    {
+        return _timer;
     }
 
     void Start()
@@ -55,13 +64,17 @@ public class LevelManager : MonoBehaviour
         ConversionJSON levelJSON = new ConversionJSON("/JSONs/SevenNationArmy.json");
         //levelJSON.SaveJSON("/JSONs/SevenNationArmyLS.json");
         string stringJSON = levelJSON.GetJSON();
-        Debug.Log(stringJSON);
-        AudioManager.Instance.Load(this.gameObject, "Audio/SevenNationArmy");
+        //Debug.Log(stringJSON);
+        AudioManager.Instance.Load(this.gameObject, "Audio/SevenNationArmy", AudioManager.AudioSources.SONG);
+        AudioManager.Instance.Load(this.gameObject, "Audio/Cut", AudioManager.AudioSources.HIT);
+        AudioManager.Instance.Load(this.gameObject, "Audio/Hurt", AudioManager.AudioSources.HURT);
         //_audioManager.Load(this.gameObject, "Audio/SevenNationArmy");
         //_audioManager = new AudioManager(this.gameObject, "Audio/SevenNationArmy");
         _stats = GetComponent<CubeSpawnerStats>();
         _stats.cubeMoveDirection = Vector3.Normalize(_stats.cubeMoveDirection);
-        _cubeSpawner = new CubeSpawner(ref _stats, stringJSON);
+        _levelJSON = JsonUtility.FromJson<LevelJSON>(stringJSON);
+        _BPM = _levelJSON.BPM;
+        _cubeSpawner = new CubeSpawner(ref _stats, _levelJSON);
         _cubeSpawner.SetPrefabs(cubePrefab);
     }
 
@@ -71,6 +84,11 @@ public class LevelManager : MonoBehaviour
         {
             _paused = !_paused;
             AudioManager.Instance.TogglePlay();
+        }
+
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            AudioManager.Instance.PlayOnce(AudioManager.AudioSources.HIT);
         }
 
         if (!_paused)

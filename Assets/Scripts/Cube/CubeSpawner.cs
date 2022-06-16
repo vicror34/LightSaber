@@ -8,25 +8,26 @@ public class CubeSpawner
     private StringVector3Dictionary _spawningMap;
     private CubeJSON[] _objectSpawnList;
     private List<Cube> _cubeList;
+    private float _BPM;
 
     private GameObject _cubePrefab;
     //private CubeRotation _cubeRotation;
 
-    public CubeSpawner(ref CubeSpawnerStats stats, string jsonString)
+    public CubeSpawner(ref CubeSpawnerStats stats, LevelJSON levelJSON)
     {
-        LevelJSON levelJson = JsonUtility.FromJson<LevelJSON>(jsonString);
+        //LevelJSON levelJson = JsonUtility.FromJson<LevelJSON>(jsonString);
         _stats = stats;
-
         _cubeList = new List<Cube>();
-        _objectSpawnList = new CubeJSON[levelJson.cubeList.Length];
-        _objectSpawnList = levelJson.cubeList;
+        _objectSpawnList = new CubeJSON[levelJSON.cubeList.Length];
+        _objectSpawnList = levelJSON.cubeList;
+        _BPM = levelJSON.BPM;
         //_cubeRotation = new CubeRotation();
 
         //TO CHANGE
         //_cubeStats = cubePrefab.GetComponent<CubeStats>();
 
-        int width = int.Parse(levelJson.size.Split('x')[0]);
-        int height = int.Parse(levelJson.size.Split('x')[1]);
+        int width = int.Parse(levelJSON.size.Split('x')[0]);
+        int height = int.Parse(levelJSON.size.Split('x')[1]);
 
         GenerateSpawningMap(width, height);
     }
@@ -176,13 +177,12 @@ public class CubeSpawner
             SpawnEverywhere();
         }
 
-        CubeDebug();
+        //CubeDebug();
+        float spawnTime = time + _stats.travelTime;
         for (int index = currentIndex; index < _objectSpawnList.Length; index++)
         {
-            float spawnTime = time + _stats.travelTime;
-            if (_objectSpawnList[index].time / 2.06666666667f <= spawnTime)
+            if (_objectSpawnList[index].time / (_BPM / 60.0f) <= spawnTime)
             {
-                //Debug.Log(_cubeSpawnList[index].arrowIdentifier);
                 _cubeList.Add(SpawnObject(_objectSpawnList[index]));
                 currentIndex++;
             }

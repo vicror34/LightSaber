@@ -16,8 +16,10 @@ public class CubeMovement : MonoBehaviour
         {
             transform.position += _cube.Speed * _cube.Direction * Time.deltaTime;
             _cube.Position = transform.position;
-            if (Vector3.Angle((_cube.Destination + _cube.Direction * 2.0f) - transform.position, _cube.Direction) >= 90.0f)
+            if (Vector3.Angle((_cube.Destination + _cube.Direction * 5.0f) - transform.position, _cube.Direction) >= 90.0f)
             {
+                ScoreManager.TakeDamage(10.0f);
+                AudioManager.Instance.PlayOnce(AudioManager.AudioSources.HURT);
                 Destroy(gameObject);
             }
         }
